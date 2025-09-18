@@ -1,6 +1,6 @@
-<!-- Optional banner — export a subtle 1500×400 image and put it at /assets/banner.png -->
+<!-- Top avatar (stable, no banner required) -->
 <p align="center">
-  <img src="assets/banner.png" alt="Danny — Full-Stack Developer · Project Manager" width="100%" />
+  <img src="https://avatars.githubusercontent.com/dnii0412" alt="Danny — Full-Stack Developer · Project Manager" width="140" style="border-radius:50%" />
 </p>
 
 <h1 align="center">Hi, I'm Danny</h1>
@@ -9,12 +9,11 @@
   I build modern web apps for start-ups, freelance clients, and internal projects.
 </p>
 
-<!-- Stable, minimal badges -->
+<!-- Stable minimal badges -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=dnii0412&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
   <img src="https://img.shields.io/github/followers/dnii0412?label=Followers&style=flat&color=0e75b6" alt="followers"/>
   <img src="https://img.shields.io/github/stars/dnii0412?affiliations=OWNER&label=Stars&style=flat&color=0e75b6" alt="stars"/>
-  <img src="https://img.shields.io/github/repos/dnii0412?label=Public%20Repos&style=flat&color=0e75b6" alt="repos"/>
 </p>
 
 ---
@@ -37,32 +36,43 @@
 - **[WinAcademy](https://winacademy.mn)** – Interactive online learning platform  
 - **[Danny-OS (Portfolio)](https://dannyos.vercel.app)** – OS-style developer portfolio  
 - **[Sunrise Mongolia](https://sunrisemongolia.com)** – Travel & tour booking platform  
-- **New Era** – Online AI course web app for K-12 & beyond  
+- **[New Era](https://edunewera.mn)** – Online AI course web app
 
 ---
 
-### 📈 GitHub Stats
-<!-- These work, but best to self-host to avoid rate-limit errors. -->
+### 📈 GitHub Activity (always works)
+<!-- Lightweight contributions heatmap with no API rate limit issues -->
+<p align="center">
+  <img src="https://ghchart.rshah.org/0e75b6/dnii0412" alt="Danny's GitHub contributions chart" />
+</p>
+
+<!--
+  🔧 Pro Stats (optional — enable after you self-host to avoid rate limits)
+  1) Fork and deploy to Vercel:
+     - https://github.com/anuraghazra/github-readme-stats
+     - https://github.com/DenverCoder1/github-readme-streak-stats
+  2) Add GITHUB_TOKEN in Vercel environment (read:user scope is enough).
+  3) Replace the base URLs below with your Vercel domains and uncomment.
+
 <p>
   <img height="150" alt="stats"
-       src="https://github-readme-stats.vercel.app/api?username=dnii0412&show_icons=true&hide_title=true&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=86400" />
+       src="https://github-readme-stats-<your-vercel>.vercel.app/api?username=dnii0412&show_icons=true&hide_title=true&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=86400" />
   <img height="150" alt="streak"
-       src="https://streak-stats.demolab.com?user=dnii0412&hide_border=true&mode=weekly&date_format=j%20M%5B%20Y%5D&cache_seconds=86400" />
+       src="https://github-readme-streak-<your-vercel>.vercel.app?user=dnii0412&hide_border=true&mode=weekly&date_format=j%20M%5B%20Y%5D&cache_seconds=86400" />
 </p>
 <p>
   <img height="150" alt="top languages"
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=dnii0412&layout=compact&hide_border=true&langs_count=8&cache_seconds=86400" />
+       src="https://github-readme-stats-<your-vercel>.vercel.app/api/top-langs/?username=dnii0412&layout=compact&hide_border=true&langs_count=8&cache_seconds=86400" />
 </p>
-
-<!-- To avoid "Something went wrong" messages, deploy your own forks to Vercel and swap the base URLs. -->
+-->
 
 ---
 
 ### 📚 Currently Learning
-Project management · system architecture · algorithms · new frameworks  
+Project management · system architecture · algorithms · new frameworks
 
 ### 🎧 Outside of Code
-Gaming · drumming · audio mixing  
+Gaming · drumming · audio mixing
 
 ### 🔗 Connect
 <a href="https://www.facebook.com/dnii.dnii.0412"><img src="https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white"/></a>
