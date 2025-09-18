@@ -1,6 +1,6 @@
-<!-- Banner (drop a 1500×400 image at /assets/banner.png or edit the URL) -->
+<!-- Optional banner — export a subtle 1500×400 image and put it at /assets/banner.png -->
 <p align="center">
-  <img src="assets/banner.png" alt="Danny — Full-Stack Developer | Project Manager" width="100%" />
+  <img src="assets/banner.png" alt="Danny — Full-Stack Developer · Project Manager" width="100%" />
 </p>
 
 <h1 align="center">Hi, I'm Danny</h1>
@@ -9,12 +9,12 @@
   I build modern web apps for start-ups, freelance clients, and internal projects.
 </p>
 
+<!-- Stable, minimal badges -->
 <p align="center">
-  <!-- tidy, low-saturation badges -->
-  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/dnii0412&title=visits&edge_flat=false" alt="profile visits"/>
-  <img src="https://badgen.net/github/followers/dnii0412?label=followers" alt="followers"/>
-  <img src="https://badgen.net/github/stars/dnii0412?label=profile%20stars" alt="stars"/>
-  <img src="https://badgen.net/github/repos/dnii0412?label=public%20repos" alt="repos"/>
+  <img src="https://komarev.com/ghpvc/?username=dnii0412&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+  <img src="https://img.shields.io/github/followers/dnii0412?label=Followers&style=flat&color=0e75b6" alt="followers"/>
+  <img src="https://img.shields.io/github/stars/dnii0412?affiliations=OWNER&label=Stars&style=flat&color=0e75b6" alt="stars"/>
+  <img src="https://img.shields.io/github/repos/dnii0412?label=Public%20Repos&style=flat&color=0e75b6" alt="repos"/>
 </p>
 
 ---
@@ -42,11 +42,23 @@
 ---
 
 ### 📈 GitHub Stats
-![Danny’s GitHub stats](https://github-readme-stats-dnii0412.vercel.app/api?username=dnii0412&show_icons=true&hide_border=true&count_private=true)
+<!-- Public endpoints (quick start). The cache reduces rate-limit issues. -->
+<p>
+  <img height="150" alt="stats"
+       src="https://github-readme-stats.vercel.app/api?username=dnii0412&show_icons=true&hide_title=true&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=86400" />
+  <img height="150" alt="streak"
+       src="https://streak-stats.demolab.com?user=dnii0412&hide_border=true&mode=weekly&date_format=j%20M%5B%20Y%5D&cache_seconds=86400" />
+</p>
+<p>
+  <img height="150" alt="top languages"
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=dnii0412&layout=compact&hide_border=true&langs_count=8&cache_seconds=86400" />
+</p>
 
-![GitHub Streak](https://github-readme-streak-dnii0412.vercel.app?user=dnii0412&hide_border=true)
-
-![Top Langs](https://github-readme-stats-dnii0412.vercel.app/api/top-langs/?username=dnii0412&layout=compact&hide_border=true)
+<!-- Prefer self-hosting to eliminate “API rate limit exceeded”.
+     After deploying your forks to Vercel, replace the base URLs above with your own:
+     https://github-readme-stats-<your-vercel>.vercel.app
+     https://github-readme-streak-<your-vercel>.vercel.app
+-->
 
 ---
 
