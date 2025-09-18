@@ -65,10 +65,9 @@ I’m driven to deliver quality at speed, while always learning and improving.
 
 ## 🎵 Now Playing
 <p align="center">
-  <img
-    src="https://spotify-github-profile.kittinanx.com/api/view?uid=31b53seixgemotbcuc2matytv46m&cover_image=true&theme=default&show_offline=false&background_color=0d1117&bar_color=FFD700&bar_color_cover=true"
-    alt="Spotify Now Playing"
-  />
+  <a href="https://open.spotify.com/album/2q4uMcogIfSvbjZevQTIDL" target="_blank">
+    <img src="https://img.shields.io/badge/Now%20Playing-Golden%20—%20Huntrix-FFD700?style=for-the-badge&logo=spotify&logoColor=white&labelColor=333&color=FFD700" />
+  </a>
 </p>
 
 ---
