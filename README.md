@@ -34,15 +34,15 @@
 ---
 
 ### 🌐 Featured Projects
-- **WinAcademy** – Interactive online learning platform → https://winacademy.mn  
-- **Danny-OS (Portfolio)** – OS-style developer portfolio  
-- **Sunrise Mongolia** – Travel & tour booking → https://sunrisemongolia.com  
-- **CourseSite (New Era)** – K-12 & online courses platform
+- **[WinAcademy](https://winacademy.mn)** – Interactive online learning platform  
+- **[Danny-OS (Portfolio)](https://dannyos.vercel.app)** – OS-style developer portfolio  
+- **[Sunrise Mongolia](https://sunrisemongolia.com)** – Travel & tour booking platform  
+- **New Era** – Online AI course web app for K-12 & beyond  
 
 ---
 
 ### 📈 GitHub Stats
-<!-- Public endpoints (quick start). The cache reduces rate-limit issues. -->
+<!-- These work, but best to self-host to avoid rate-limit errors. -->
 <p>
   <img height="150" alt="stats"
        src="https://github-readme-stats.vercel.app/api?username=dnii0412&show_icons=true&hide_title=true&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=86400" />
@@ -54,19 +54,15 @@
        src="https://github-readme-stats.vercel.app/api/top-langs/?username=dnii0412&layout=compact&hide_border=true&langs_count=8&cache_seconds=86400" />
 </p>
 
-<!-- Prefer self-hosting to eliminate “API rate limit exceeded”.
-     After deploying your forks to Vercel, replace the base URLs above with your own:
-     https://github-readme-stats-<your-vercel>.vercel.app
-     https://github-readme-streak-<your-vercel>.vercel.app
--->
+<!-- To avoid "Something went wrong" messages, deploy your own forks to Vercel and swap the base URLs. -->
 
 ---
 
 ### 📚 Currently Learning
-System architecture · new frameworks · algorithms · project management
+Project management · system architecture · algorithms · new frameworks  
 
 ### 🎧 Outside of Code
-Gaming · drumming · audio mixing
+Gaming · drumming · audio mixing  
 
 ### 🔗 Connect
 <a href="https://www.facebook.com/dnii.dnii.0412"><img src="https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white"/></a>
