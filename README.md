@@ -64,18 +64,6 @@ I’m driven to deliver quality at speed, while always learning and improving.
 ---
 
 ## 🎵 Now Playing
-
-<!-- Static gold badge -->
-## 🎵 Now Playing  
-
-<p align="center">
-  <img
-    src="https://spotify-github-profile.kittinanx.com/api/view?uid=31b53seixgemotbcuc2matytv46m&cover_image=true&theme=default&show_offline=false&background_color=0d1117&bar_color=FFD700&bar_color_cover=true"
-    alt="Spotify Now Playing"
-  />
-</p>
-
-<!-- Dynamic Spotify card -->
 <p align="center">
   <img
     src="https://spotify-github-profile.kittinanx.com/api/view?uid=31b53seixgemotbcuc2matytv46m&cover_image=true&theme=default&show_offline=false&background_color=0d1117&bar_color=FFD700&bar_color_cover=true"
