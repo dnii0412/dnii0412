@@ -18,7 +18,7 @@
 
 ## 👤 About Me
 I’m Danny — a full-stack developer and project manager with a passion for fast, reliable work.  
-I co-founded **XP Digital (Xperience Agency)** with three friends, and within our first 1.5 months we launched **4 real client projects**.  
+I co-founded **XP Digital (Xperience Agency)** with three friends, and within our first 1.5 months we launched **4 real client projects**.
 
 When I’m not coding, I serve part-time at church and spend time drumming or mixing audio.  
 I’m driven to deliver quality at speed, while always learning and improving.
@@ -27,9 +27,9 @@ I’m driven to deliver quality at speed, while always learning and improving.
 
 ## 🏆 Achievements
 - 🚀 Co-founded **XP Digital** · 4 projects delivered in 1.5 months  
-- 🌐 Built and launched **WinAcademy**, **Sunrise Mongolia**, **New Era**, and **DannyOS**  
-- 🎶 Balanced tech with **drumming, audio mixing**, and **community service** at church  
-- 📈 Expanding skills in **project management, system architecture, and algorithms**  
+- 🌐 Built and launched **WinAcademy**, **Sunrise Mongolia**, **New Era**, **HanEducation**, and **DannyOS**  
+- 🎶 Balance tech with **drumming, audio mixing**, and **community service** at church  
+- 📈 Growing depth in **project management, system architecture, and algorithms**
 
 ---
 
@@ -52,18 +52,39 @@ I’m driven to deliver quality at speed, while always learning and improving.
 - **[Danny-OS (Portfolio)](https://dannyos.vercel.app)** – OS-style developer portfolio  
 - **[Sunrise Mongolia](https://sunrisemongolia.com)** – Travel & tour booking platform  
 - **[New Era](https://edunewera.mn)** – Online AI course web app  
+- **[HanEducation](https://haneducation.mn)** – Study abroad consultancy platform
 
 ---
 
 ## 📊 GitHub Overview
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dnii0412&theme=github_dark" alt="Danny's GitHub summary card"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dnii0412&theme=github_dark" alt="Danny's GitHub summary card" />
+</p>
+
+---
+
+## 🎵 Now Playing
+
+<!-- Static gold badge -->
+<p align="center">
+  <img
+    src="https://img.shields.io/badge/Now%20Playing-Golden%20%E2%80%94%20Huntrix-FFD700?style=for-the-badge&logo=spotify&logoColor=white&labelColor=333&color=FFD700"
+    alt="Now Playing: Golden — Huntrix"
+  />
+</p>
+
+<!-- Dynamic Spotify card -->
+<p align="center">
+  <img
+    src="https://spotify-github-profile.kittinanx.com/api/view?uid=31b53seixgemotbcuc2matytv46m&cover_image=true&theme=default&show_offline=false&background_color=0d1117&bar_color=FFD700&bar_color_cover=true"
+    alt="Spotify Now Playing"
+  />
 </p>
 
 ---
 
 ## 📚 Currently Learning
-Project management · system architecture · algorithms · new frameworks  
+Project management · system architecture · algorithms · new frameworks
 
 ---
 
@@ -71,7 +92,7 @@ Project management · system architecture · algorithms · new frameworks
 - 🎮 Gaming  
 - 🥁 Drumming  
 - 🎚 Audio mixing  
-- ⛪ Church service (part-time)  
+- ⛪ Church service (part-time)
 
 ---
 
