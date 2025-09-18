@@ -42,14 +42,11 @@
 ---
 
 ### 📈 GitHub Stats
-<!-- Tip: cache_seconds prevents API rate hiccups; set your own theme if you like -->
-<p>
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=dnii0412&show_icons=true&hide_title=true&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=86400" alt="stats"/>
-  <img height="150" src="https://streak-stats.demolab.com?user=dnii0412&hide_border=true&mode=weekly&date_format=j%20M%5B%20Y%5D&cache_seconds=86400" alt="streak"/>
-</p>
-<p>
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dnii0412&layout=compact&hide_border=true&langs_count=8&cache_seconds=86400" alt="top langs"/>
-</p>
+![Danny’s GitHub stats](https://github-readme-stats-dnii0412.vercel.app/api?username=dnii0412&show_icons=true&hide_border=true&count_private=true)
+
+![GitHub Streak](https://github-readme-streak-dnii0412.vercel.app?user=dnii0412&hide_border=true)
+
+![Top Langs](https://github-readme-stats-dnii0412.vercel.app/api/top-langs/?username=dnii0412&layout=compact&hide_border=true)
 
 ---
 
